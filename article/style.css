@@ -1,0 +1,25 @@
+img {
+  max-width: 100%;
+
+}
+
+body {
+  width: 650px;
+  margin-left: 25%;
+}
+
+a{
+  color:gray;
+}
+
+a:visited {
+  color: lightgray;
+}
+p {
+  font-size: 20px;
+}
+.em {
+  color: white;
+  background: gray;
+  font-style: normal;
+}
