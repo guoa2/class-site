@@ -23,3 +23,7 @@ p {
   background: gray;
   font-style: normal;
 }
+
+.underline {
+  text-decoration: underline;
+}
