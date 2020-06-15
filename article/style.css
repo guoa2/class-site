@@ -1,10 +1,11 @@
 img {
   max-width: 100%;
-
+  display: block;
+  margin: 0 auto;
 }
 
 body {
-  width: 650px;
+  width: 600px;
   margin-left: 25%;
 }
 
@@ -15,8 +16,13 @@ a{
 a:visited {
   color: lightgray;
 }
+h1, h2 {
+  margin-left:5%;
+}
+
 p {
   font-size: 20px;
+  margin-left: 5%;
 }
 .em {
   color: white;
@@ -26,4 +32,8 @@ p {
 
 .underline {
   text-decoration: underline;
+}
+
+hr {
+  /* border: 2px dotted gray; */
 }
