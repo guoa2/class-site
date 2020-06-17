@@ -1,0 +1,39 @@
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 600px;
+  margin-left: 25%;
+}
+
+a{
+  color:gray;
+}
+
+a:visited {
+  color: lightgray;
+}
+h1, h2 {
+  margin-left:5%;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 5%;
+}
+.em {
+  color: white;
+  background: gray;
+  font-style: normal;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+hr {
+  /* border: 2px dotted gray; */
+}
