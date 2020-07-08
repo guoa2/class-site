@@ -1,6 +1,6 @@
 function toggle() {
 var element = document.getElementById("button");
-element.classList.toggle("pikachu");
+element.classList.toggle("extend");
 }
 
 /**

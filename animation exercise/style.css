@@ -6,6 +6,11 @@ body{
   background: lightyellow;
 }
 
+.container {
+  background: cadetblue;
+  display: flex;
+}
+
 .meow{
   background: aliceblue;
   border-radius: 5px;
