@@ -24,6 +24,10 @@ a:hover {
   color: darkblue;
 }
 
+p {
+  font-size:14px;
+}
+
 ul {
   list-style: "»";
   color: turquoise;
@@ -45,6 +49,22 @@ h2, h3 {
   left: 0;
   /* width: 100px; */
   animation: run 5s infinite linear;
+}
+
+.reveal{
+  padding: 0px 0px 0px 10px;
+  height: 30px;
+  width: 100%;
+  margin: 0px 0% 0px 0%;
+  float: left;
+  position: relative;
+  transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  overflow: hidden;
+}
+
+.reveal:hover{
+  height: 150px;
 }
 
 @keyframes run {

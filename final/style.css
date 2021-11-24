@@ -71,5 +71,8 @@ html{
 }
 
 #mydivheader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: move;
 }
